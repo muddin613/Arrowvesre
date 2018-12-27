@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: darkviolet;
+    text-align: center;
+    font-family: monospace;
+    font-size: 80px
+}
+h{
+    
+    margin: 0;
+    padding: 10px;
+}
+ul{
+    margin: 0;
+    padding: 10px;
+    list-style-type: none;
+}
